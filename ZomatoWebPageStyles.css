@@ -6,7 +6,7 @@
 }
 .header_section
 {
-    background: url(./images/headerSectionBackground.png);
+    background: url(images/headerSectionBackground.png);
     background-size:cover;
     background-position: center;
     color: white;
